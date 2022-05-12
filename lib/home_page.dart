@@ -87,6 +87,7 @@ class HomePage extends StatelessWidget {
             inactiveColor: Colors.red.withOpacity(0.4),
           ),
           const SizedBox(height: 40),
+
           // NOTE : MENGGUNAKAN CONSUMER
           // Consumer<WeightProvider>(
           //     builder: ((context, weightProvider, _) =>
